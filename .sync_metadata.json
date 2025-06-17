@@ -1,0 +1,30 @@
+{
+  ".sync_metadata.json": {
+    "path": "C:\\Users\\l\\1\\.sync_metadata.json",
+    "size": 939,
+    "mtime": 1749045662.8914864,
+    "hash": "e2ae1fb7954c034c4bace933a496e184",
+    "version": 1
+  },
+  "file1.txt": {
+    "path": "C:\\Users\\l\\1\\file1.txt",
+    "size": 16,
+    "mtime": 1749039554.7246013,
+    "hash": "6bc409e2eed358b12edc4252d3ab952c",
+    "version": 1
+  },
+  ".versions\\file1.txt.20250604201936": {
+    "path": "C:\\Users\\l\\1\\.versions\\file1.txt.20250604201936",
+    "size": 9,
+    "mtime": 1746681155.817125,
+    "hash": "9297ab3fbd56b42f6566284119238125",
+    "version": 1
+  },
+  "\u65b0\u5efa\u6587\u4ef6\u5939\\\u65b0\u5efa\u6587\u672c\u6587\u6863.txt": {
+    "path": "C:\\Users\\l\\1\\\u65b0\u5efa\u6587\u4ef6\u5939\\\u65b0\u5efa\u6587\u672c\u6587\u6863.txt",
+    "size": 10,
+    "mtime": 1749039354.219708,
+    "hash": "e03ea9640dc03ba3c22b6f4af5aac324",
+    "version": 1
+  }
+}
